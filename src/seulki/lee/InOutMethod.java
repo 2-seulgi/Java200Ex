@@ -1,5 +1,7 @@
 package seulki.lee;
 import java.util.Scanner;
+
+// static 메서드
 public class InOutMethod {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); //키보드
